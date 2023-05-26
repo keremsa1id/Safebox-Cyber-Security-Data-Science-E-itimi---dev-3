@@ -1,0 +1,8 @@
+
+Brontok, bir bilgisayar solucanıdır. Bilgisayarlarda zararlı yazılım olarak sınıflandırılan Brontok, 2005 yılında ortaya çıkmıştır. Solucan, kendini kopyalayabilen ve yayabilen bir tür kötü amaçlı yazılımdır.
+
+Brontok, e-posta yoluyla yayılan bir solucan olarak bilinir. Genellikle sahte bir e-posta ekine eklenmiş olarak kullanıcıların dikkatini çekmeye çalışır. E-postanın konusu ve içeriği çeşitli hilelerle kullanıcının ilgisini çekmek için tasarlanmış olabilir. E-posta ekindeki dosya açıldığında veya indirildiğinde, Brontok solucanı aktif hale gelir ve bilgisayar üzerinde kötü amaçlı işlemler gerçekleştirir.
+
+Brontok, bir kez etkinleştirildiğinde, bilgisayar kullanıcısının dosyalarını etkileyebilir. Örneğin, kullanıcının belgelerini, fotoğraflarını, müzik dosyalarını ve diğer kişisel verilerini hedef alabilir ve bu dosyaları bozabilir, şifreleyebilir veya silme tehdidi oluşturabilir. Ayrıca Brontok, kayıt defterinde de değişiklikler yapabilir ve sistem kaynaklarını tüketerek bilgisayarın performansını düşürebilir.
+
+Brontok solucanı genellikle kullanıcıların dikkatsizlikleri veya güvenlik önlemlerini ihmal etmeleri sonucu bilgisayarlara bulaşır. E-postalardaki ek dosyaları açmadan önce dikkatli olmak, güncel bir antivirüs programı kullanmak ve güvenlik yazılımlarını düzenli olarak güncellemek gibi önlemler almak, Brontok ve benzeri zararlı yazılımların bilgisayarınıza bulaşmasını engellemeye yardımcı olabilir.

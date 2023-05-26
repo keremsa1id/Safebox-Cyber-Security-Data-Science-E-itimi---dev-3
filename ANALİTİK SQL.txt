@@ -1,0 +1,15 @@
+Analitik SQL, veritabanı yönetim sistemleri (DBMS) tarafından desteklenen ve analitik sorgulama ve veri analizi için kullanılan SQL (Structured Query Language) ifadelerinin bir alt kümesidir. Analitik SQL, veri madenciliği, iş zekası, istatistiksel analiz ve veri keşfi gibi analitik amaçlarla kullanılan veri tabanı sorgularını gerçekleştirmek için geliştirilmiştir.
+
+Analitik SQL, geleneksel SQL'den bazı açılardan farklıdır çünkü genellikle daha karmaşık hesaplamalar ve veri manipülasyonları yapmak için kullanılır. Aşağıda analitik SQL'nin bazı özellikleri ve işlevleri bulunmaktadır:
+
+Pencere Fonksiyonları: Analitik SQL, sorgu sonuçları üzerinde hareketli ortalama, sıralama, toplama gibi pencere fonksiyonlarını kullanma imkanı sağlar. Bu fonksiyonlar, veri kümesinin bir pencere veya belirli bir sıralama düzeni içinde analiz edilmesine olanak tanır.
+
+Gruplama ve Toplama: Analitik SQL, GROUP BY ve HAVING ifadelerini kullanarak verileri gruplama ve grup bazında toplama yeteneği sağlar. Bu, veri setinin belirli kategorilere göre analiz edilmesini sağlar.
+
+Dışlama (Exclusion): Analitik SQL, verileri filtrelemek veya dışlamak için kullanılabilen NOT IN veya NOT EXISTS gibi ifadeleri destekler. Bu, belirli koşulları sağlamayan verilerin analiz dışında tutulmasını sağlar.
+
+Birleştirme (Join): Analitik SQL, birden çok tabloyu birleştirme yeteneği sunar. Bu, ilişkisel veritabanlarındaki tablolar arasında ilişkileri kullanarak veri analizi yapmayı kolaylaştırır.
+
+Alt Sorgular: Analitik SQL, alt sorguların kullanılmasına izin verir. Bu, daha karmaşık analizler için iç içe geçmiş sorguların kullanılmasını sağlar.
+
+Analitik SQL'nin bu özellikleri, büyük veri kümeleri üzerinde karmaşık analizler yapmak ve veri tabanından anlamlı bilgiler çıkarmak için kullanışlıdır. İş zekası raporları oluşturma, trend analizi yapma, veri özetleme, tahmin modelleri oluşturma gibi çeşitli analitik görevlerde analitik SQL sorguları kullanılır.

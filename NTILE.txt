@@ -1,0 +1,8 @@
+-- OVER: Analitik fonksiyonları kullanırken, analiz yapılacak sütunların ve gruplama kurallarının belirlendiği kısım.
+--NTILE: Sorgu sonucunda dönen satırları eşit büyüklükteki gruplara böler.
+select 
+	first_name,
+	last_name,
+	ntile(20)
+	over (ORDER BY first_name) as ntile_for_first_name20
+	from actor
